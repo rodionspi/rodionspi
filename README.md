@@ -1,23 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=0:0f172a,35:0ea5e9,70:8b5cf6,100:f43f5e&text=Rodion%20Spiridonov&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20from%20Switzerland&descSize=18&descAlignY=58" alt="Rodion Spiridonov banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=0:000000,45:1f2937,100:ffffff&text=Rodion%20Spiridonov&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20from%20Switzerland&descSize=18&descAlignY=58&descColor=e5e7eb" alt="Rodion Spiridonov banner" />
 
 <a href="https://github.com/rodionspi">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+clean%2C+fast+and+polished+web+apps;React+%2B+Next.js+%2B+TypeScript+%2B+Firebase;Turning+ideas+into+useful+digital+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=850&color=111827&center=true&vCenter=true&width=900&lines=I+build+clean%2C+fast+and+polished+web+apps;React+%2B+Next.js+%2B+TypeScript+%2B+Firebase;Turning+ideas+into+useful+digital+products" alt="Typing SVG" />
 </a>
 
 <br />
 
 <a href="https://rodion-s.com/">
-  <img src="https://img.shields.io/badge/Portfolio-rodion--s.com-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-rodion--s.com-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/rodion-spiridonov-95563b224/">
-  <img src="https://img.shields.io/badge/LinkedIn-Rodion%20Spiridonov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Rodion%20Spiridonov-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/rodionspi?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
+  <img src="https://img.shields.io/badge/Repositories-Explore-374151?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=rodionspi&style=for-the-badge&color=38bdf8&label=Profile+views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=rodionspi&style=for-the-badge&color=111827&label=Profile+views" alt="Profile views" />
 
 </div>
 
@@ -95,6 +95,6 @@ I enjoy building interfaces that feel smooth, clear and practical. My projects m
 
 <sub>Thanks for visiting. Build something useful today.</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,35:0ea5e9,70:8b5cf6,100:f43f5e" alt="Footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ffffff,45:1f2937,100:000000" alt="Footer wave" />
 
 </div>
